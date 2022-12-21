@@ -9,7 +9,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suatoruc&label=Profile%20views&color=0e75b6&style=flat" alt="cuneytsoylu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cuneytsoylu&label=Profile%20views&color=0e75b6&style=flat" alt="cuneytsoylu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cuneytsoylu" alt="cuneytsoylu" /></a> </p>
 
@@ -23,8 +23,7 @@
 
 <p align="left">
   
-<a href="www.linkedin.com/in/cuneytsoylu
-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cuneytsoylu
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/cuneytsoylu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cuneytsoylu
 " height="30" width="40" /></a>
 </p>
 
