@@ -59,5 +59,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cuneytsoylu&show_icons=true&locale=en&layout=compact" alt="cuneytsoylu" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cuneytsoylu&show_icons=true&locale=en" alt="cuneytsoylu" /></p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cuneytsoylu&" alt="cuneytsoylu" /></p>
-  
-  ![snake gif](https://github.com/kansuorhan/kansuorhan/blob/output/github-contribution-grid-snake.gif)
+                                                                                                                    
+  ![snake gif](https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif)
