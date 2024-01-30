@@ -1,5 +1,4 @@
- 
- 
+
 
 <h1 align="center">Hi 👋 I'm Cuneyt SOYLU</h1>
  
