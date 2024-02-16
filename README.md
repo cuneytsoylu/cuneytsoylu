@@ -29,7 +29,7 @@
 <a href="https://www.postman.com" target="_blank" rel="noreferrer"> <img src="https://www.semihduran.com/wp-content/uploads/2020/12/postman.jpg" alt="Postman" width="60" height="30"/></a>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
 <a href="https://www.jira.com" target="_blank" rel="noreferrer"> <img src="https://yardimmasasi.atilim.edu.tr/images/atlassian-jira-logo-large.png" alt="Jira" width="60" height="30"/></a>
-<a href="https://www.jmeter.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/752dabc7ca2275ee7a079fa24433ff2c6307eb4cddc541dfed60749f62772b41/68747470733a2f2f6a6d657465722e6170616368652e6f72672f696d616765732f6c6f676f2e737667" alt="Jmeter" width="60" height="30"/></a>
+<a href="https://www.jmeter.com" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/752dabc7ca2275ee7a079fa24433ff2c6307eb4cddc541dfed60749f62772b41/68747470733a2f2f6a6d657465722e6170616368652e6f72672f696d616765732f6c6f676f2e737667" alt="Jmeter" width="60" height="30"/></a>
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://media.bitdegree.org/storage/media/images/2018/11/jenkins-interview-questions-logo.png" alt="Jmeter" width="35" height="35"/></a>
 
 ## 💻Tech Stack
