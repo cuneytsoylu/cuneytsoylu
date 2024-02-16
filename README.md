@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋 I'm Cuneyt SOYLU</h1>
  
 <h3 align="center">Full Stack Automation Tester</h3>
-    ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
-<p align="left"><img src="https://komarev.com/ghpvc/?username=cuneytsoylu&label=Profile%20views&color=0e75b6&style=flat" alt="cuneytsoylu" /></p>
+    
+<p align="left"><img src="https://komarev.com/ghpvc/?username=cuneytsoylu&color=green&label=Profile%20views&color=0e75b6&style=flat" alt="cuneytsoylu" /></p>
  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cuneytsoylu" alt="cuneytsoylu" /></a> </p>
 
