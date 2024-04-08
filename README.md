@@ -4,7 +4,6 @@
 <h3 align="center">Full Stack Automation Tester</h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=cuneytsoylu&label=Profile%20views&color=brightgreen&style=flat" alt="cuneytsoylu" /></p>
- 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cuneytsoylu" alt="cuneytsoylu" /></a> </p>
 
