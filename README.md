@@ -7,6 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cuneytsoylu" alt="cuneytsoylu" /></a> </p>
 
+
 - 🌱 I’m currently learning **Appium, Cypress, Python,Jscprit**
 
 - 💬 Ask me about **Java,Selenium,PgSql,Cypress,RestfullApi,Postman**
