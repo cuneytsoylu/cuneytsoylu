@@ -8,6 +8,7 @@
 
 - 🌱 I’m currently learning **Appium, Cypress, Python,Jscprit**
 
+
 - 💬 Ask me about **Java,Selenium,PgSql,Cypress,RestfullApi,Postman**
 
 - 📫 How to reach me **csmorex1@gmail.com**
