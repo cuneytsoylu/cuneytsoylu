@@ -1,4 +1,4 @@
-  <h1 align="center">Hi 👋 I'm Cuneyt SOYLU</h1> 
+<h1 align="center">Hi 👋 I'm Cuneyt SOYLU</h1> 
  
 <h3 align="center">Full Stack Automation Tester</h3>
 
