@@ -2,9 +2,8 @@
   <h1>Hi 👋 I'm Cuneyt SOYLU</h1>
   <h3>Full Stack Automation Tester</h3>
   <p>
-    Java ve Selenium ekosisteminde uzmanlaşmış, otomasyon framework'leri oluşturma konusunda tutkulu bir test mühendisiyim.
-    <br />
-    Amacım, hataları kullanıcılardan önce yakalamak!
+    
+  
   </p>
 </div>
 
@@ -18,7 +17,7 @@
 
 ---
 
-### 🚀 Hakkımda Hızlı Bilgiler
+
 
 * 🌱 Şu anda öğrendiklerim: **Appium, Cypress, Python, JavaScript**
 * 💬 Bana şunları sorabilirsiniz: **Java, Selenium, PostgreSQL, REST API, Postman**
@@ -29,7 +28,7 @@
 ### 🛠️ Teknoloji ve Araçlar
 
 
-<h3 align="left">Diller ve Framework'ler</h3>
+<h3 align="left"> </h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> 
@@ -54,7 +53,7 @@
   </a>
 </p>
 
-<h3 align="left">Veritabanı ve API</h3>
+<h3 align="left"> </h3>
 <p align="left">
   <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> 
@@ -68,7 +67,7 @@
   <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=databricks&logoColor=white" alt="REST API"/> 
 </p>
 
-<h3 align="left">DevOps ve Diğer Araçlar</h3>
+<h3 align="left"> </h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> 
@@ -84,7 +83,7 @@
   </a>
 </p>
 
-<h3 align="left">IDE</h3>
+<h3 align="left"> </h3>
 <p align="left">
   <a href="https://www.jetbrains.com/idea/" target="_blank"> 
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ"/> 
@@ -96,7 +95,7 @@
 
 ---
 
-### 📬 Benimle İletişime Geçin
+### İletişime Geçin
 
 
 
@@ -111,7 +110,7 @@
 
 ---
 
-### 📊 GitHub İstatistiklerim
+###  GitHub 
 
 
 
