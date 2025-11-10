@@ -125,6 +125,9 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=cuneytsoylu&" alt="GitHub Katkı Serisi" />
   </p>
 </div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cuneytsoylu&theme=rogue" width="94%"/>
+</p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/111094912/192098018-b1d8de39-fbc5-4831-aad0-177a57021cb1.gif" alt="GitHub Katkı Yılanı" />
