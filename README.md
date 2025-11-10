@@ -1,51 +1,104 @@
- <h1 align="center">Hi 👋 I'm Cuneyt SOYLU</h1> 
- 
-<h3 align="center">Full Stack Automation Tester</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=15C399&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Cuneyt+SOYLU+%F0%9F%91%8B;Full+Stack+Automation+Tester;I+break+things...for+a+living!+%F0%9F%9A%80" />
+</div>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=cuneytsoylu&label=Profile%20views&color=brightgreen&style=flat" alt="cuneytsoylu" /></p>
+<div align="center">
+  <p>Java ve Selenium ekosisteminde uzmanlaşmış, sağlam ve ölçeklenebilir otomasyon framework'leri oluşturma konusunda tutkulu bir test mühendisiyim.</p>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cuneytsoylu" alt="cuneytsoylu" /></a> </p>
-- 🌱 I’m currently learning **Appium, Cypress, Python,Jscprit**
+<blockquote>
+  <p align="center">
+    <strong>🚀 Benim Test Felsefem:</strong>
+    <br />
+    "Kaliteli yazılım, tesadüf değil, iyi tasarlanmış otomasyonun bir sonucudur. Amacım, hataları daha onlar kullanıcıya ulaşmadan yakalamak."
+  </p>
+</blockquote>
 
-- 💬 Ask me about **Java,Selenium,PgSql,Cypress,RestfullApi,Postman**
+---
 
-- 📫 How to reach me **csmorex1@gmail.com**
+### 📌 Öne Çıkan Projelerim
 
-<h3 align="left">Connect with me:</h3>
+*Bu bölüm, profilinizin en önemli yeridir. Kendi projelerinizi buraya eklemelisiniz.*
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
+  <a href="[PROJENİZİN_LİNKİ]" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[KULLANICI_ADI]&repo=[REPO_ADI]&theme=tokyonight&show_owner=false" alt="Proje 1" />
+  </a>
+  <a href="[PROJENİZİN_LİNKİ]" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[KULLANICI_ADI]&repo=[REPO_ADI]&theme=tokyonight&show_owner=false" alt="Proje 2" />
+  </a>
+</div>
+
+---
+
+### 📝 Son Yazılarım
+
+*Eğer bir blogunuz varsa, bu bölüm otomatik olarak son yazılarınızı çeker. (Kurulumu aşağıda)*
+
+<p align="center"><i>En son teknik yazılarım için lütfen takipte kalın...</i></p>
+---
+
+### 🛠️ Teknoloji ve Araçlar
+
+<h3 align="left">Diller ve Framework'ler:</h3>
 <p align="left">
- 
-<a href="https://www.linkedin.com/in/cuneytsoylu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cuneytsoylu" height="30" width="40" /></a>
+  <a href="httpsa://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+  <a href="https://www.selenium.dev" target="_blank"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/></a>
+  <a href="https://www.cypress.io" target="_blank"><img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/></a>
+  <a href="https://appium.io" target="_blank"><img src="https://img.shields.io/badge/Appium-DA5944?style=for-the-badge&logo=appium&logoColor=white" alt="Appium"/></a>
 </p>
-## 💻Tools
 
-<p align="left >
+<h3 align="left">Veritabanı ve API:</h3>
+<p align="left">
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+  <a href="https://www.postman.com" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/></a>
+  <a href="https://jmeter.apache.org" target="_blank"><img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="JMeter"/></a>
+</p>
 
-<a href="https://www.vscode.com" target="_blank" rel="noreferrer"> <img src="https://media.githubusercontent.com/media/microsoft/vscode-docs/main/images/logo-stable.png" alt="VScode" width="35" height="35"/></a>
-<a href="https://www.intelj.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQak-N8W03mK25slV1lwM80i0y1obRPPJOaLA&usqp=CAU" alt="intelj" width="60" height="30"/></a>
-<a href="https://www.postman.com" target="_blank" rel="noreferrer"> <img src="https://www.semihduran.com/wp-content/uploads/2020/12/postman.jpg" alt="Postman" width="60" height="30"/></a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-<a href="https://www.jira.com" target="_blank" rel="noreferrer"> <img src="https://yardimmasasi.atilim.edu.tr/images/atlassian-jira-logo-large.png" alt="Jira" width="60" height="30"/></a>
-<a href="https://www.jmeter.com" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/752dabc7ca2275ee7a079fa24433ff2c6307eb4cddc541dfed60749f62772b41/68747470733a2f2f6a6d657465722e6170616368652e6f72672f696d616765732f6c6f676f2e737667" alt="Jmeter" width="60" height="30"/></a>
-<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://media.bitdegree.org/storage/media/images/2018/11/jenkins-interview-questions-logo.png" alt="Jmeter" width="35" height="35"/></a>
+<h3 align="left">DevOps ve Diğer Araçlar:</h3>
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+  <a href="https://www.jenkins.io" target="_blank"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/></a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/></a>
+  <a href="httpsg://maven.apache.org" target="_blank"><img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/></a>
+</p>
 
-## 💻Tech Stack
+---
+
+### 📬 Benimle İletişime Geçin
 
 <p align="left">
-
-<a href="https://www.java.com"  target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/></a>
-<a href="https://www.maven.com" target="_blank" rel="noreferrer"> <img src="https://koraypeker.com/wp-content/uploads/2018/06/1_xsrKVt69q3JsZzLD-ldekQ.jpeg" alt="maven" width="60" height="30"/></a>
-<a href="https://www.html5.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" width="35" height="35"/></a>
-<a href="https://www.css3.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" width="35" height="35"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/></a>
-<a href="https://www.appium.com" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/698/0*Ar7dArTvLIGrRs2n.png" alt="Selenium" width="60" height="30"/></a>
-<a href="https://www.cypress.com" target="_blank" rel="noreferrer"> <img src="https://cloud.githubusercontent.com/assets/1268976/20607953/d7ae489c-b24a-11e6-9cc4-91c6c74c5e88.png" alt="Cypress" width="60" height="30"/></a>
-<a href="https://www.api.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFpswKqlwex1UtYOHT6cWIVsJ3dQfEg__lFQ&usqp=CAU" alt="api" width="35" height="35"/></a>
+  <a href="https://www.linkedin.com/in/cuneytsoylu/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:csmorex1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cuneytsoylu&show_icons=true&locale=en&layout=compact" alt="cuneytsoylu" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cuneytsoylu&show_icons=true&locale=en" alt="cuneytsoylu" /></p>
-                                                                                                                                              
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cuneytsoylu&" alt="cuneytsoylu" /></p>
-                                                                                                                    
-  ![github-contribution-grid-snake](https://user-images.githubusercontent.com/111094912/192098018-b1d8de39-fbc5-4831-aad0-177a57021cb1.gif)
+### 📊 GitHub İstatistiklerim
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=cuneytsoylu&label=Profile%20views&color=brightgreen&style=flat-square" alt="Profil Görüntülenme Sayısı" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=cuneytsoylu" alt="Başarı Kupaları" />
+  </a>
+  
+  <br />
+  
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=cuneytsoylu&show_icons=true&locale=en&theme=tokyonight" alt="Cuneyt Soylu GitHub İstatistikleri" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cuneytsoylu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" width="48%" />
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cuneytsoylu&theme=tokyonight" alt="GitHub Katkı Serisi" />
+  </p>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/111094912/192098018-b1d8de39-fbc5-4831-aad0-177a57021cb1.gif" alt="GitHub Katkı Yılanı" />
+</div>
