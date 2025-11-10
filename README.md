@@ -28,7 +28,6 @@
 
 ### 🛠️ Teknoloji ve Araçlar
 
-Profilinizi ziyaret edenlerin daha kolay okuyabilmesi için yeteneklerinizi gruplandırdım ve `shields.io` rozetleri kullandım.
 
 <h3 align="left">Diller ve Framework'ler</h3>
 <p align="left">
@@ -99,7 +98,7 @@ Profilinizi ziyaret edenlerin daha kolay okuyabilmesi için yeteneklerinizi grup
 
 ### 📬 Benimle İletişime Geçin
 
-İletişim için de rozet kullanmak daha derli toplu duruyor.
+
 
 <p align="left">
   <a href="https://www.linkedin.com/in/cuneytsoylu/" target="_blank">
@@ -114,7 +113,7 @@ Profilinizi ziyaret edenlerin daha kolay okuyabilmesi için yeteneklerinizi grup
 
 ### 📊 GitHub İstatistiklerim
 
-Bu harika istatistikleri, `align="center"` içeren bir `div` içine alarak sayfada ortaladım.
+
 
 <div align="center">
   <p>
