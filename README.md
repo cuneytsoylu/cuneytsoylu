@@ -18,7 +18,6 @@
 ---
 
 
-
 * 🌱 Şu anda öğrendiklerim: **Appium, Cypress, Python, JavaScript**
 * 💬 Bana şunları sorabilirsiniz: **Java, Selenium, PostgreSQL, REST API, Postman**
 * 📫 Bana nasıl ulaşırsınız: **csmorex1@gmail.com**
