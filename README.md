@@ -2,7 +2,7 @@
   <h1>Hi 👋 I'm Cuneyt SOYLU</h1>
   <h3>Full Stack Automation Tester</h3>
   <p>
-  
+
 
   </p>
 </div>
